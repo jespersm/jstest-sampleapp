@@ -49,3 +49,4 @@ grails.project.dependency.resolution = {
         build ":tomcat:$grailsVersion"
     }
 }
+grails.plugin.location.'jstest-qunit' = "../jstest-qunit"
